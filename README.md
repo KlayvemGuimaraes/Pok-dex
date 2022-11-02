@@ -4,7 +4,7 @@
 
 > Desenvolvido com base na aula da Manual do Dev 
 
-[Clique aqui para acessar]()
+[Clique aqui para acessar](https://klayvemguimaraes.github.io/Pokedex/pokedex/index.html)
 
 ## 🌍 Tecnologias
 
